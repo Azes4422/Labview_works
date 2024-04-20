@@ -1,2 +1,2 @@
 # Labview_works
-Projects created using labview
+Washing machine UI created using LabView software. Which allows users to select different modes of washing.
